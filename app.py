@@ -7,9 +7,9 @@ import io
 
 # --- HIPERLINK COM OUTROS APPs
 with st.sidebar:
-        st.title("Outros Cálculos")
-        st.link_button("Cálculo de Energia Incidente", "https://calculo-arc-flash-hb8eujmejx23kk2skfn9nr.streamlit.app/", use_container_width=True)
-        st.link_button("Cálculo de Arco Elétrico", "https://c-lculobancocapacitores-tne9epqsrh64gtwaakzyax.streamlit.app/", use_container_width=True)
+    st.title("Outros Cálculos")
+    st.link_button("Cálculo de Energia Incidente", "https://calculo-arc-flash-hb8eujmejx23kk2skfn9nr.streamlit.app/", use_container_width=True)
+    st.link_button("Cálculo de Arco Elétrico", "https://c-lculobancocapacitores-tne9epqsrh64gtwaakzyax.streamlit.app/", use_container_width=True)
 
 # --- FUNÇÕES DE CÁLCULO ---
 
